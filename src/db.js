@@ -42724,6 +42724,7 @@ export default [
   "kasmir",
   "kasmutik",
   "kaso",
+  "kasokandel",
   "kasp",
   "kaspe",
   "kasr",
